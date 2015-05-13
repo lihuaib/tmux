@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: retmux
+Version: 1.0.0
+Summary: A tmux session backup and restore tool
+Home-page: https://github.com/sk1418/retmux
+Author: Kai Yuan
+Author-email: kent.yuan@gmail.com
+License: UNKNOWN
+Description: 
+            A tmux session backup and reload tool
+            
+Keywords: tmux restore backup
+Platform: POSIX
